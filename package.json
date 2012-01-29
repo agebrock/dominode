@@ -1,0 +1,15 @@
+{
+    "name": "dominode"
+  , "version": "0.0.1"
+  , "description": "DOM in Node.js"
+  , "keywords": []
+  , "author": "agebrock <christoph.hagenbrock<AT>googlemail.com>"
+  , "dependencies": {
+      "jsdom": ">= 0.2.x",
+      "html5": ">= 0.3.x",
+      "request":">=2.9.3",
+      "xmlhttprequest":">= 1.2.x"
+  }
+  , "main": "index"
+  , "engines": { "node": ">=0.4.x" }
+}
